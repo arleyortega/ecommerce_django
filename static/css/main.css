@@ -1,0 +1,17 @@
+#cart-icon {
+    width: 25px; /* Ajusta el ancho según tu preferencia */
+    display: inline-block;
+    margin-left: 15px;
+}
+
+/* Estilos para alinear el botón "Login" a la derecha */
+.form-check-inline {
+    display: flex;
+    align-items: center;
+    margin-left: auto; /* Esto alinea el elemento a la derecha */
+}
+
+/* Estilos adicionales para el botón "Login" */
+.btn-warning {
+    margin-right: 15px; /* Agrega un margen derecho para separación */
+}
